@@ -1,5 +1,5 @@
 name: Example workflow using Snyk
-on: pull_request
+on: pull_request1
 jobs:
   security:
     runs-on: ubuntu-latest
